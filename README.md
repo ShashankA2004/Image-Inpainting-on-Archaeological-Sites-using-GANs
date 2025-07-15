@@ -8,6 +8,9 @@ Image inpainting is a widely used technique in various domains, including image 
 ## Methodology
 The proposed approach is based on the Context Encoder GAN architecture, a generative adversarial network designed for image inpainting tasks. To enhance restoration quality, we incorporate the MS-SSIM loss function, which guides the network to produce more structurally consistent and visually pleasing results. This loss function helps preserve important features and details during the inpainting process.
 
+![Architecture](https://github.com/ShashankA2004/Image-Inpainting-on-Archaeological-Sites-using-GANs/blob/main/methodology.jpg?raw=true)
+
+
 ## Experimental Setup
 To evaluate the effectiveness of our approach, we conducted experiments using datasets from archaeological sites. These datasets consist of photographs with missing or damaged areas caused by the passage of time or excavation procedures. We compare the results of our approach with the baseline UNet model in terms of the Structural Similarity Index (SSIM) score.
 
