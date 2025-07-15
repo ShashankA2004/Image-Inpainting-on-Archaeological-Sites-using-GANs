@@ -17,6 +17,10 @@ To evaluate the effectiveness of our approach, we conducted experiments using da
 ## Results
 Our experimental results demonstrate that the proposed approach achieves strong inpainting performance on archaeological images. We obtained an SSIM score of 0.92 and a PSNR of 28.42, indicating high structural similarity and good signal-to-noise ratio in the restored images. 
 
+<p align="center">
+  <img src="https://github.com/ShashankA2004/Image-Inpainting-on-Archaeological-Sites-using-GANs/blob/main/results.jpg?raw=true" alt="Results Image" width="600"/>
+</p>
+
 ## Conclusion
 The suggested approach provides a valuable tool for academics and archaeologists working with archaeological data. By enhancing the picture restoration and analysis capabilities, our method enables researchers to effectively reconstruct damaged or missing portions of images, thereby improving the understanding and interpretation of archaeological datasets. Furthermore, by integrating the model into mobile applications, we aim to empower users to examine and restore their own archaeological images conveniently.
 
